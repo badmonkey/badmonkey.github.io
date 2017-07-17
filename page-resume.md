@@ -32,14 +32,17 @@ Software Engineer
 
 `2015 -` 
 | first | second |
+| ---   | ---    |
 | More  | More2  |
 
 `2001 - 2015` 
-| first | second |
-| More  | More2  |
+| and | if | or |
+| --- | --- | --- |
+| More  | More2 | More3 |
+
 
 ## Projects
-`Jan. 2011 - Dec. 2012`
+`01/2011 - 12/2012`
 Software Developer - Outback Challenge
 + Placed first in 2012 competition (first in world to detect joe and return airframe safely)
 + Part of team developing Autopilot software; Using Ardupilot APM2
