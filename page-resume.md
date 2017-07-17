@@ -31,18 +31,16 @@ Software Engineer
 ## Employment
 
 `2015 -` 
+Some interesting text here
 
-|---
-| first | second |
-|---|---|
-| More  | More2  |
+### Company 1
+`2008 - 2015`
+interesting text
+mroe text
 
-`2001 - 2015` 
-
-|---
-| and | if | or |
-| --- | --- | --- |
-| More  | More2 | More3 |
+### Company 2
+`2001 - 2008`
+oh guess some more interesting text
 
 
 ## Projects
