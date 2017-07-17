@@ -1,5 +1,5 @@
 ---
-title: Resume for me
+title: Michael Fagan's CV
 layout: resume
 ---
 
