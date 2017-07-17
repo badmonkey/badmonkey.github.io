@@ -3,4 +3,5 @@ gems:
    - jekyll-coffeescript
    - jekyll-paginate
    - jekyll-mentions
+   - jekyll-avatar
 
