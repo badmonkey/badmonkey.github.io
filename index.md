@@ -3,5 +3,10 @@ title: In the beginning
 layout: default
 ---
 
-page here
+# badmonkey
+
+
+### Pages
+
+1. [Resume](page-resume.html)
 
