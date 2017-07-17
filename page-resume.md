@@ -30,9 +30,6 @@ Software Engineer
 
 ## Employment
 
-`2015 -` 
-Some interesting text here
-
 ### Company 1
 `2008 - 2015`
 interesting text
