@@ -44,7 +44,8 @@ oh guess some more interesting text
 
 
 ## Projects
-Outback Challenge
+
+### Outback Challenge
 `01/2011 - 12/2012`
 + Placed first in 2012 competition (first in world to detect joe and return airframe safely)
 + Part of team developing Autopilot software; Using Ardupilot APM2
