@@ -31,9 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol, ul {
-	list-style: none;
-}
+
 blockquote, q {
 	quotes: none;
 }
@@ -83,15 +81,41 @@ p code {
 }
 
 
-h2+ul {
+div.skillset {
+    background-color: #D0F4D9;
+}
+    
+div.skillset ul {
 	position: relative;
 	left: 25%;
 	width: 65%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
-    columns: 4;
-    -webkit-columns: 4;
-    -moz-columns: 4;
+    list-style: none;
+    columns: 5;
+    -webkit-columns: 5;
+    -moz-columns: 5;
+}
+
+
+div.entry ul {
+	position: relative;
+	left: 25%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: 1em;
+}
+
+div.entry_2nd {
+    background-color: #D0F4D9;
+}
+
+div.entry_2nd ul {
+	position: relative;
+	left: 25%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: 1em;
 }
 
 
@@ -148,6 +172,15 @@ h2 {
 h3 {
 	color: #F07415;
 	font-size: 1em;
+	line-height: 2em;
+	position: relative;
+	top: 1.7em;
+	text-align: right;
+	width: 15%;
+}
+
+h4 {
+	font-size: 0.8em;
 	line-height: 2em;
 	position: relative;
 	top: 1.7em;
