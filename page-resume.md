@@ -14,18 +14,21 @@ Software Engineer
 </div>
 
 ## Technical Skills
+<div class="skillset">
 * C++
 * C
 * Erlang
 * Elixir
 * Python
 * Linux
-* git
+* git/SVN
 * Rust
 * Java
 * docker
 * RabbitMQ
 * ardunino
+* Javascript
+</div>
 
 
 ## Employment
@@ -44,8 +47,9 @@ oh guess some more interesting text
 
 ### Outback Challenge
 `01/2011 - 12/2012`
+<div markdown="1">
 + Placed first in 2012 competition (first in world to detect joe and return airframe safely)
 + Part of team developing Autopilot software; Using Ardupilot APM2
 + Part of team developing computer vision "joe detector"
 + Part of team developing "Software in the loop" testing and continuous "fly" build system.
-
+</div>
