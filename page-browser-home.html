@@ -16,34 +16,53 @@
 td, th {
 	vertical-align:top;
 }
+
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+    height: 200px;
+    width: 400px;
+    background-color: lightgrey;
+}
+
+.flex-item {
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 10px;
+    border-style: dotted;
+    border-width: 2px;
+}
 	</style>
-	
+
 	<div class="center">
-	  <table border="1">
-		<tr>
-		  <td>
-		    <div id="gform">
-		      <label class="screen-reader-text" for="s"></label>
-		      <input type="text" value="" name="q" id="s">
-		      <input type="submit" class="btn fa-input" value="&#xf002;" style="font-family: FontAwesome;">	
-		   </div>
-		  </td>
-		</tr>
-		<tr>
-		  <td>
-			TrapDocs
-			<ul>
-			  <li><A href="https://serinus.atlassian.net/secure/Dashboard.jspa">Jira Dashboad</A>
-			  <li><A href="https://bitbucket.org/serinuscanaria/">Project Overview</A>
-			  <li><A href="https://serinus.atlassian.net/wiki/spaces/CONCEPT/pages">Confluence</A>
-			  <li><A href="https://serinus.atlassian.net/projects/CONCEPT/summary">Summary</A>
-			</ul>
-		  </td>
-		  <td>
-			Home
-		  </td>
-		</tr>
-	  </table>
-	</div>
+	  <div class="flex-container">
+	    <div class="flex-item">
+	      <form method="get" action="http://www.google.com/search">
+                <label class="screen-reader-text" for="s"></label>
+                <input type="text" value="" name="q" id="s" autofocus>
+                <input type="submit" class="btn fa-input" value="Google Search">
+              </form>
+	    </div>
+
+	    <div class="flex-item">
+	      <ul>
+	        <li><A href="https://serinus.atlassian.net/secure/Dashboard.jspa">Jira Dashboad</A>
+	        <li><A href="https://bitbucket.org/serinuscanaria/">Project Overview</A>
+	        <li><A href="https://serinus.atlassian.net/wiki/spaces/CONCEPT/pages">Confluence</A>
+	        <li><A href="https://serinus.atlassian.net/projects/CONCEPT/summary">Summary</A>
+	      </ul>
+	    </div>
+
+	    <div class="flex-item">flex item 3</div>
+          </div>
+        </div>
+
   </body>
 </html>
