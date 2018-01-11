@@ -1,50 +1,50 @@
 ---
-title: Michael Fagan's CV
+title: Resum&eacute; for Michael Fagan
 layout: layout-resume
 ---
 # Michael C. Fagan
 Software Engineer
 
+<div class="noprint">
 <div id="webaddress">
-<a href="mailto:email@email.com">email@email.com</a>
+<a href="mailto:michael.charles.fagan@gmail.com">michael.charles.fagan@gmail.com</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/badmonkey">badmonkey</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/blam">something</a>
 </div>
-
-## Technical Skills
-
-#### Languages
-<div class="skillset" markdown="1">
-* C++
-* C
-* Erlang
-* Elixir
-* Python
-* Rust
-* Java
-* Javascript
 </div>
 
-#### Tools
-<div class="skillset" markdown="1">
-* Linux
-* git/SVN
-* docker
-* RabbitMQ
-* ardunino
-* pidgeon
-</div>
 
-#### Frameworks
+## Education
+
+### Australian National University
+`1996` B.Sc. (Computer Science)
 
 
+## Experience
 
-## Employment
+### PenTen
+`09/2017 -`
+python cyber deception machien learning
 
 ### ShoreTel
 `01/2013 - 06/2017`
+
+#### "CAS" Server Upgrade
+<div class="entry" markdown="1">
+__Senior Software Engineer__
+
+</div>
+
+#### "Elvis" VoIP Callmanager
+<div class="entry" markdown="1">
+__Senior Software Engineer__
+
++ Part of team developing new sip callmanager features
++ Part of team integrating support for in-house designed sip phones
++ Audited and maintained legacy C tls/sip library
+</div>
 
 
 ### MediaWare
@@ -52,7 +52,7 @@ Software Engineer
 
 #### Core Libraries
 <div class="entry" markdown="1">
-__Senior Software Developer__
+__Senior Software Engineer__
 
 + Developed image processing framework using GIL and IPP.
 + Developed MPTS muxer; synthesize a MPTS mpeg-ts from several SPTS mpeg-ts.
@@ -62,8 +62,8 @@ __Senior Software Developer__
 </div>
 
 #### Infrastructure
-<div class="entry" markdown="1">
-__Senior Software Developer__
+<div class="entry_2nd" markdown="1">
+__Senior Software Engineer__
 
 + Installed and maintained Mediawiki website installation.
 + Installed and maintained CodeReview website installation.
@@ -76,7 +76,7 @@ __Senior Software Developer__
 <div class="entry" markdown="1">
 __Engineering Team Lead__
 
-+ Part of team that rewrote "splicer";- For Linux, new better architecture (a framework for building apps), improved stability (long uptimes), and improved feature set (supports AVC, AAC, DVB subtitles, SCTE 35, et al).
++ Part of team that rewrote "splicer";- For Linux, better architecture (a framework for building apps), improved stability (long uptimes), and improved feature set (supports AVC, AAC, DVB subtitles, SCTE 35, et al).
 + Part of team that developed test framework for creating scriptable tests (using lua).
 + Part of team that developed continous build and test system (using test framework).
 + Developed Fedora distro installer, customized for InsertionServer product.
@@ -86,8 +86,8 @@ __Engineering Team Lead__
 </div>
 
 #### InsertionServer Project
-<div class="entry" markdown="1">
-__Senior Software Developer__
+<div class="entry_2nd" markdown="1">
+__Senior Software Engineer__
 
 + Part of team that developed "Ad splicing" technology; inserting an mpeg clip into an existing mpeg video entirely within the mpeg domain (ie no decode/encode needed).
 + Developed process management "watchdog" application.
@@ -96,7 +96,7 @@ __Senior Software Developer__
 
 #### "Remedy" build system
 <div class="entry" markdown="1">
-__Senior Software Developer__
+__Senior Software Engineer__
 
 + Part of a team that developed and deployed custom build tool (A "makefile" generator sytle build system) written in lua.
 + Part of team that maintained remedy.
@@ -105,8 +105,8 @@ __Senior Software Developer__
 </div>
 
 #### Core Libraries
-<div class="entry" markdown="1">
-__Senior Software Developer__
+<div class="entry_2nd" markdown="1">
+__Senior Software Engineer__
 
 + Developed license key code library (so only licensed versions of our software will run).
 + Developed and maintained key generation infrastructure.
@@ -138,14 +138,14 @@ __Tech Lead__
 __Engineering Team Lead__
 
 + Responsible for the delivery of a stable Advanced Authentication package.
-+ Responsible for mentoring developers on correct C++ idioms and techniques.
++ Responsible for mentoring Engineers on correct C++ idioms and techniques.
 + Responsible for organising and conducting peer-review of source code.
 + Advocate for development processes (UML, RUP and some aspect of the extreme programming methodology).
 </div>
 
 #### Advanced Authentication Project
-<div class="entry" markdown="1">
-__Software Developer__
+<div class="entry_2nd" markdown="1">
+__Software Engineer__
 
 + Part of a team developing feature set of an Advanced Authentication solution.
 + Responsible for the development of PKCS11 Smartcard library, supporting multiple brands and types of smartcards.
@@ -154,7 +154,7 @@ __Software Developer__
 
 #### Single SignOn Project
 <div class="entry" markdown="1">
-__Software Developer__
+__Software Engineer__
 
 + Responsible for the development of installshield packages for several products over several platforms.
 + Part of a team developing new version of a single sign on solution.
@@ -166,7 +166,7 @@ __Software Developer__
 
 #### ViP Project
 <div class="entry" markdown="1">
-__Software Developer__
+__Software Engineer__
 
 + Developed coding, configuration, promotion, backup and source code control policies and processes for development team.
 + Developed customizations to infranet software.
@@ -180,7 +180,7 @@ __Software Developer__
 
 #### ATO Electronic GST Submissions Project
 <div class="entry" markdown="1">
-__Software Developer__
+__Software Engineer__
 
 + Responsible for design and development of Java client and server communication infrastructure (XML tunneling over HTTP, Proxy Management, User Authentication).
 + Responsible for design and development of scalable Java server (Database management, Token Management, Security, Certificate Management, Encryption/Signing, Transaction Management, Threading, Dynamically loaded business functions).
@@ -188,8 +188,8 @@ __Software Developer__
 </div>
 
 #### ATO GRAS Project
-<div class="entry" markdown="1">
-__Software Developer/ Testing Liason__
+<div class="entry_2nd" markdown="1">
+__Software Engineer/ Testing Liason__
 
 + Developed scripts and procedures for entering test data into ATO Platinum database application.
 + Involved with developing test scripts for testing GRAS application.
@@ -197,7 +197,7 @@ __Software Developer/ Testing Liason__
 
 #### CASA Link Project
 <div class="entry" markdown="1">
-__Software Developer__
+__Software Engineer__
 
 + Part of team responsible for design and development of infrastructure with CORBA (NetDynamics).
 + Involved with design and development of user interfaces for CASA Link application.
@@ -205,8 +205,8 @@ __Software Developer__
 </div>
 
 #### CSIRO Frank Project
-<div class="entry" markdown="1">
-__Software Developer__
+<div class="entry_2nd" markdown="1">
+__Software Engineer__
 
 + Consultant for design and development of user interface to a sun multimedia station.
 + Involved in 'Movie-on-demand' demo for ACTEW TransACT promotional release.
@@ -214,7 +214,7 @@ __Software Developer__
 
 #### Transigo Optimization Project
 <div class="entry" markdown="1">
-__Software Developer__
+__Software Engineer__
 
 + Part of team responsible for optimizing the Transigo server to required levels of performance.
 + Developed Java code generator for generating optimized database access classes (caching of data, database connection pooling, virtual inheritance ontop of a relational database).
@@ -223,8 +223,8 @@ __Software Developer__
 </div>
 
 #### Transigo Project, Phase 2
-<div class="entry" markdown="1">
-__Software Developer__
+<div class="entry_2nd" markdown="1">
+__Software Engineer__
 
 + Part of team involved in rewriting infrastructure to one based on CORBA (Orbix).
 + Part of team responsible for extending infrastructure to include new low level features.
@@ -233,7 +233,7 @@ __Software Developer__
 
 #### Transigo Project, Phase 1
 <div class="entry" markdown="1">
-__Software Developer__
+__Software Engineer__
 
 + Part of a large team (40+) developing a electronic commerce system for use by federal government departments.
 + HTML web page design (Dynamically created via PL/SQL).
@@ -243,10 +243,74 @@ __Software Developer__
 
 
 ### Coffee Bean Software
-`06/1996 - 12/1996` __Software Developer__
+`06/1996 - 12/1996` __Software Engineer__
 <div class="entry" markdown="1">
 Part of team implementing network based simulation tool in Java
 (proof of concept). Responsible for user interface design.
+</div>
+
+
+## Technical Skills
+
+#### Languages
+<div class="skillset" markdown="1">
+* C++
+* C
+* Erlang
+* Elixir
+* Python
+* Rust
+* Java
+* Javascript
+* Lua
+</div>
+
+#### Tools
+<div class="skillset" markdown="1">
+* Linux; Ubuntu/Fedora
+* git
+* subversion
+* docker
+* RabbitMQ
+* ardunino
+* SQL
+* GNU make
+* XML
+* SOAP
+* rebar
+* pip/virtualenv
+</div>
+
+#### Frameworks
+<div class="skillset" markdown="1">
++ SaaS
++ MPEG
++ Heroku
++ Django
++ VoIP
++ Raspberry PI
++ Cryptography
++ Cloud Computing
++ stl
++ boost
+</div>
+
+#### Other
+<div class="skillset" markdown="1">
++ Apache
++ gunicorn
++ cowboy
++ bash
++ emacs
++ vi
++ mediawiki
++ gitlab
++ jira
++ html
++ OpenCV
++ eJabberd
++ slack
++ discord
 </div>
 
 
@@ -255,7 +319,7 @@ Part of team implementing network based simulation tool in Java
 ### Outback Challenge
 `01/2011 - 12/2012` CanberraUAV team member for [Outback Challenge](http://www.uavoutbackchallenge.com.au/)
 <div class="entry" markdown="1">
-+ Placed first in 2012 competition (first in world to detect joe and return airframe safely)
++ Team placed first in 2012 competition (first in world to detect Joe and return airframe safely)
 + Part of team developing Autopilot software; Using Ardupilot APM2
 + Part of team developing computer vision "joe detector"
 + Part of team developing "Software in the loop" testing and continuous "fly" build system.
@@ -268,3 +332,15 @@ Part of team implementing network based simulation tool in Java
 + Foundation - Platform independent library, reference implementation of common C++ techniques - C++
 + Graal - large class library - java
 </div>
+
+
+## Links
+* <i class="fa fa-github"></i> <a href="http://github.com/badmonkey">badmonkey</a><br />
+<div class="noprint" markdown="1">
+* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
+* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
+* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
+* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
+* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+</div>
+

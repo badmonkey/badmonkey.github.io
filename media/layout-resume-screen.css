@@ -82,26 +82,26 @@ p code {
 
 
 div.skillset {
-    background-color: #D0F4D9;
+/*    background-color: #D0F4D9;*/
 }
     
 div.skillset ul {
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 50%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
     list-style: none;
-    columns: 5;
-    -webkit-columns: 5;
-    -moz-columns: 5;
+    columns: 6;
+    -webkit-columns: 6;
+    -moz-columns: 6;
 }
 
 
 div.entry ul {
 	position: relative;
 	left: 25%;
-	width: 65%;
+    width: 50%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
 }
@@ -113,9 +113,14 @@ div.entry_2nd {
 div.entry_2nd ul {
 	position: relative;
 	left: 25%;
-	width: 65%;
+	width: 50%;
 	margin-bottom: 1.5em;
 	margin-top: 1em;
+}
+
+div.noprint {
+    background-color: #D0F4D9;
+/*    visibility: hidden; */
 }
 
 
